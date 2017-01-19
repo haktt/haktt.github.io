@@ -1,3 +1,13 @@
 h1{
 	text-align: center;
+	font-weight: bold;
+}
+div.image img{
+	float: left;
+	width: 650px;
+	height: 500px;
+}
+
+div.info{
+	float: left;
 }
